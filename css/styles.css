@@ -2,14 +2,15 @@
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+    padding-bottom: 5%;
 }
 
 body {
     color: #40514E;
     margin: 0;
     text-align: center;
-    font-family: 'Merriweather', serif;
-    font-size: 80%;
+    font-family: 'Asap', sans-serif;
+    font-size: 90%;
 }
 
 h1 {
@@ -90,10 +91,10 @@ hr {
 }
 
 .profilePic {
-    border-radius: 50%;
+    border-radius: 100%;
     width: 20%;
     margin: 100px 0;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .btn {
@@ -132,7 +133,7 @@ a {
     color: #11999E;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
-    margin: 10px 20px;
+    margin: 10px 10px;
 }
 
 a:hover {
